@@ -1,0 +1,1 @@
+prefect[mysql]==1.4.0
